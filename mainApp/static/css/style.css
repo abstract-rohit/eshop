@@ -1,0 +1,31 @@
+.background{
+    background-color: rgb(7, 25, 82);
+}
+.btn:hover{
+    background-color: rgb(8, 131, 149);
+}
+.banner-section{
+    position: relative;
+}
+.banner-btn{
+    width: 100px;
+    position: absolute; 
+    left: 30px;
+}
+.banner-btn:hover{ 
+    box-shadow: 0 0 10px black;
+}
+#banner-btn1{
+    top: 20%;    
+}
+#banner-btn2{
+    top: 40%;    
+}
+#banner-btn3{
+    top: 60%;    
+}
+.card-title{
+    height: 70px;
+}
+ 
+   
